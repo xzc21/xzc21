@@ -1,5 +1,6 @@
-Hi, I’m William.
-Right now, I am just trying to learn new things.
+Hi, I’m William, a CS student @Waterloo.
+
+I am just trying to learn new things. 
 
 
 <!---
