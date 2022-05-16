@@ -1,6 +1,6 @@
 Hi, I’m William, a CS student @Waterloo.
 
-Right now, I am just trying to learn new things. 
+Currently trying to learn new things.
 
 
 <!---
