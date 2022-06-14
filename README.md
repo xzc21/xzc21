@@ -1,9 +1,3 @@
-Hi, I’m William, a CS student @Waterloo.
+### Hi there, I'm William!
 
-Currently trying to learn new things.
-
-
-<!---
-xzc21/xzc21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I'm interning at Cognizantly and trying to do a muscle up - outside of work, you'll find me building side projects, listening to music, playing sports, or drinking boba.
