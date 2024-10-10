@@ -3,7 +3,7 @@
 I am `William Tian`, an undergraduate student from the University of Waterloo, Canada. Outside of school, you'll find me playing music, reading books, or playing volleyball.
 
 - 📚 3B Computer Science
-- 💬 English(en) French (fr) Spanish (es) 中文(zh) 
+- 💬 English(en) French(fr) Spanish(es) 中文(zh) 
 - 🌐 Full-stack web: React/Redux Angular Next.js + Flask Node.js Spring/Spring boot + Firebase/SQL
 - 🤖 ARTIFICIAL INTELLIGENCE & NEURAL NETWORK AND DEEP LEARNING & BLOCKCHAIN
 - 💜 Like Python, TypeScript, and React
