@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 
-I am `William Tian`, an undergraduate student from the University of Waterloo, Canada. Outside of school, you'll find me playing music, reading books, or playing volleyball.
+I am `William Tian`, an undergraduate student from the University of Waterloo, Canada. Outside of school, you'll find me playing music, reading books, or playing volleyball. I am currently looking for 2025 internship opportunities! 
 
 - 📚 3B Computer Science
 - 💬 English(en) French(fr) Spanish(es) 中文(zh) 
