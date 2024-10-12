@@ -5,7 +5,7 @@ I am `William Tian`, an undergraduate student from the University of Waterloo, C
 - 📚 3B Computer Science
 - 💬 English(en) French(fr) Spanish(es) 中文(zh) 
 - 🌐 Full-stack web: React/Redux Angular Next.js + Flask Node.js Spring/Spring boot + Firebase/SQL
-- 🤖 ARTIFICIAL INTELLIGENCE & NEURAL NETWORK AND DEEP LEARNING & BLOCKCHAIN
+- 🤖 Artificial Intelligence, Neural Network & Deep Learning, Blockchain, Numerical Computation, Operating Systems, Algorithms
 - 💜 Like Python, TypeScript, and React
 - 👩‍💻 4 internship experience
 - 🏐 Schooll Volleyball Club Executive
