@@ -1,18 +1,19 @@
 ## Hi there! 👋🏻
 
-I am `William Tian`, an undergraduate student from the University of Waterloo, Canada. Outside of school, you'll find me playing music, reading books, or playing volleyball. I am currently looking for 2025 internship opportunities! 
+I am `William Tian`, an undergraduate student from the University of Waterloo, Canada. Outside of school, you'll find me playing volleybal, reading books, or playing sts2. I am currently looking for 2026 new grad opportunities! 
 
-- 📚 3B Computer Science
+- 📚 4B Computer Science
 - 💬 English(en) French(fr) Spanish(es) 中文(zh) 
 - 🌐 Full-stack web: React/Redux Angular Next.js + Flask Node.js Spring/Spring boot + Firebase/SQL
-- 🤖 Artificial Intelligence, Neural Network & Deep Learning, Blockchain, Numerical Computation, Operating Systems, Algorithms
+- 🤖 AI, Neural Network & Deep Learning, Blockchain, Numerical Computation, Operating Systems, Algorithms
 - 💜 Like Python, TypeScript, and React
-- 👩‍💻 4 internship experience
-- 🏐 Schooll Volleyball Club Executive
+- 👩‍💻 6 internship experiences
+- 🏐 UW Volleyball Club Executive
 
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Work Experience
 
+- Sep 2025 - Dec 2025: Software Developer Intern @ [Cast](https://castinsights.com)
 - May 2024 - Aug 2024: Software Developer Intern @ [Oracle](https://www.oracle.com/)
 - Sep 2023 - Dec 2023: Software Developer Intern @ [TD Asset Management](https://www.td.com/ca/en/asset-management/home)
 - Jan 2023 - Apr 2023: Software Developer Intern @ [Intact](https://www.intact.ca/)
