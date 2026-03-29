@@ -14,11 +14,11 @@ I am `William Tian`, an undergraduate student from the University of Waterloo, C
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Work Experience
 
 - Sep 2025 - Dec 2025: Software Developer Intern @ [Cast](https://castinsights.com)
+- May 2025 - Aug 2025: Software Developer Intern @ [AWS](https://aws.amazon.com)
 - May 2024 - Aug 2024: Software Developer Intern @ [Oracle](https://www.oracle.com/)
 - Sep 2023 - Dec 2023: Software Developer Intern @ [TD Asset Management](https://www.td.com/ca/en/asset-management/home)
 - Jan 2023 - Apr 2023: Software Developer Intern @ [Intact](https://www.intact.ca/)
 - May 2022 - Aug 2022: Software Developer Intern @ [Prof of Wall Street](https://www.profofwallstreet.com/)
-- Jun 2021 - Aug 2021: Business Analyst @ [Gouvernement du Québec](https://www.quebec.ca/en/government/ministere/emploi-solidarite-sociale)
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Projects
 
